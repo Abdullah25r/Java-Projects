@@ -1,1 +1,1 @@
-No internet 💔
+Projects and algorithms
