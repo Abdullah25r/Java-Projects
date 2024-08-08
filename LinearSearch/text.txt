@@ -1,2 +1,10 @@
-0 Mohsin bhatti
-4 Umar bhatti
+1 Abdullah Rasheed
+2 Saifullah Rasheed
+3 Laiba Rasheed
+4 Sabir Jameel
+5 kouser perveen
+6 rasheed ahmad
+7 munir roshan
+8 nazir roshan
+9 qasim qasai
+10 nadirashraf bhatti
