@@ -1,1 +1,1 @@
-Projects and algorithms
+Projects and algorithm
