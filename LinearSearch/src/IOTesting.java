@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Test {
+public class IOTesting {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new FileReader(new File("text.txt")));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(new File("text.txt"),true));
